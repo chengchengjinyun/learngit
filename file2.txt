@@ -2,3 +2,4 @@ creating a new branch is quick and simple
 fixed bug-001
 my fixed
 Im new fixed
+my github fixed
